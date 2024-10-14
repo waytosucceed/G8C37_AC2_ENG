@@ -1,0 +1,278 @@
+[
+    {
+        "questionNo": "Q1.",
+        "question": "Which of the following pairs of sentences highlights the difference between future perfect and future perfect continuous?",
+        "options": [
+            "\"By next week, we will have launched the product.\" <br> \"By next week, we will be launching the product.\"",
+            "\"By 10 p.m., they will have left the office.\" <br> \"By 10 p.m., they will have been leaving the office.\"",
+            "\"She will have read the book by tonight.\" <br> \"She will read the book by tonight.\"",
+            "\"I will have been working on this project.\" <br> \"I will work on this project.\""
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q2.",
+        "question": "Which of the following pairs of sentences highlights the difference between future perfect and future perfect continuous?",
+        "options": [
+            "\"By tomorrow evening, they will have rehearsed the play five times.\" <br> \"By tomorrow evening, they will have been rehearsing the play for five hours.\"",
+            "\"By midnight, the team will have wrapped up the meeting.\" <br> \"By midnight, the team will be wrapping up the meeting.\"",
+            "\"I will have been living in Paris for two years by the time I move.\" <br> \"I will have moved to Paris two years ago.\"",
+            "\"By next week, we will have booked the venue.\" <br> \"By next week, we will have been booking the venue.\""
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q3.",
+        "question": "Which of the following pairs of sentences highlights the difference between future perfect and future perfect continuous?",
+        "options": [
+            "\"By the end of the week, they will have published the report.\" <br> \"By the end of the week, they will be publishing the report.\"",
+            "\"By the time I arrive at the party, they will have left.\" <br> \"By the time I arrive at the party, they will have been leaving.\"",
+            "\"By next year, I will have finished my degree.\" <br> \"By next year, I will have been finishing my degree.\"",
+            "\"By next month, we will have completed the renovations.\" <br> \"By next month, we will be completing the renovations.\""
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q4.",
+        "question": "Spot the error in the following question: By the time the quarterly results are announced, the finance team will have been reconciling the accounts, but they will not complete the final adjustments.",
+        "options": [
+            "will not complete",
+            "By the time",
+            "will have been reconciling",
+            "the quarterly results"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q5.",
+        "question": "Spot the error in the following question: By the time we launch the new campaign, we will have been tracking its performance for a month, but we won’t have gathering enough data for a comprehensive analysis.",
+        "options": [
+            "will have been tracking",
+            "will have gathering",
+            "By the time",
+            "for a month"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q6.",
+        "question": "Spot the error in the following question: By the time we complete the first round of testing, we will have been finishing the documentation for the new system.",
+        "options": [
+            "complete",
+            "will have been finishing",
+            "first round of testing",
+            "for the new system"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q7.",
+        "question": "Fill in the blank: By the time the plane lands, they ________ (travel) over 8,000 miles.",
+        "options": [
+            "will have travelled",
+            "will have been travelling",
+            "will have travelling",
+            "would have been travelling"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q8.",
+        "question": "By 6 PM tomorrow, the team ________ (complete) their preparation for the final presentation for 72 hours straight.",
+        "options": [
+            "will have completed",
+            "will have been completing",
+            "will complete",
+            "will have been completed"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q9.",
+        "question": "By next July, the construction company ________ (build) the skyscraper for over three years.",
+        "options": [
+            "will have built",
+            "will have been building",
+            "will build",
+            "will have been built"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q10.",
+        "question": "By the time the contract ends, we ________ (negotiate) with them for nearly six months.",
+        "options": [
+            "will have been negotiating",
+            "will have negotiated",
+            "will be negotiating",
+            "would have been negotiating"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q11.",
+        "question": "Identify the tense used in the sentence: By the time you arrive, I will have finished my work.",
+        "options": [
+            "Future continuous",
+            "Present perfect",
+            "Future perfect",
+            "Past perfect continuous"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q12.",
+        "question": "They will have completed the project by the end of the week.",
+        "options": [
+            "Future perfect continuous",
+            "Future perfect",
+            "Present perfect",
+            "Future continuous"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q13.",
+        "question": "By the time the meeting starts, the participants will have read all the materials.",
+        "options": [
+            "Future continuous",
+            "Future perfect",
+            "Present perfect",
+            "Past perfect continuous"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q14.",
+        "question": "By next year, we will have saved enough money to buy a new house.",
+        "options": [
+            "Future continuous",
+            "Future perfect continuous",
+            "Future perfect",
+            "Present perfect"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q15.",
+        "question": "By the time she arrives, ________ (he, complete) the calculations for the report?",
+        "options": [
+            "will he have completed",
+            "will he complete",
+            "does he complete",
+            "will he have completing"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q16.",
+        "question": "By the end of the fiscal year, the auditors ________ (not, review) all financial statements.",
+        "options": [
+            "will not have reviewed",
+            "will not review",
+            "do not review",
+            "have not reviewed"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q17.",
+        "question": "By this time next year, I ______ (to save) enough money to buy my own apartment.",
+        "options": [
+            "will have been saving",
+            "will save",
+            "will have saved",
+            "will be saving"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q18.",
+        "question": "By next year, the construction team ______ (to complete) the foundation work, but the building won’t be ready yet.",
+        "options": [
+            "will be completing",
+            "will complete",
+            "will have completed",
+            "will have been completing"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q19.",
+        "question": "By the end of the semester, ________ (you, not, study) for the course for six months?",
+        "options": [
+            "will you not have been studying",
+            "will you not study",
+            "will you not have studied",
+            "will you not be studying"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q20.",
+        "question": "By next quarter, we ________ (analyse) the data for nearly half a year.",
+        "options": [
+            "will have analysed",
+            "will have been analysing",
+            "will analyse",
+            "will have analysing"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q21.",
+        "question": "Will they ________ (not, work) on the project for six months by the time the deadline arrives?",
+        "options": [
+            "not have been working",
+            "not have worked",
+            "not work",
+            "not be working"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q22.",
+        "question": "Will you ________ (not, be attending) the meetings for the entire semester by the end of the term?",
+        "options": [
+            "not have been attending",
+            "not have attended",
+            "not be attending",
+            "not attend"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q23.",
+        "question": "By the end of the day, I ________ (not, be studying) for the exam for more than three hours.",
+        "options": [
+            "will not have been studying",
+            "will not have studied",
+            "will not study",
+            "have not been studying"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q24.",
+        "question": "By the time they arrive, we ________ (not, be working) on the project for a week.",
+        "options": [
+            "will not have been working",
+            "will not have worked",
+            "will not work",
+            "have not been working"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q25.",
+        "question": "By the time she retires, she ________ (teach) at the university for more than 30 years.",
+        "options": [
+            "will have taught",
+            "will have been teaching",
+            "will teach",
+            "will have been taught"
+        ],
+        "correct": 1
+    }
+
+]
